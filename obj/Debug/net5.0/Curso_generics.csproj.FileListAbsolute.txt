@@ -1,0 +1,16 @@
+C:\CursoC#\Generic_Parte_2\bin\Debug\net5.0\Curso_generics.exe
+C:\CursoC#\Generic_Parte_2\bin\Debug\net5.0\Curso_generics.deps.json
+C:\CursoC#\Generic_Parte_2\bin\Debug\net5.0\Curso_generics.runtimeconfig.json
+C:\CursoC#\Generic_Parte_2\bin\Debug\net5.0\Curso_generics.runtimeconfig.dev.json
+C:\CursoC#\Generic_Parte_2\bin\Debug\net5.0\Curso_generics.dll
+C:\CursoC#\Generic_Parte_2\bin\Debug\net5.0\ref\Curso_generics.dll
+C:\CursoC#\Generic_Parte_2\bin\Debug\net5.0\Curso_generics.pdb
+C:\CursoC#\Generic_Parte_2\obj\Debug\net5.0\Curso_generics.csproj.AssemblyReference.cache
+C:\CursoC#\Generic_Parte_2\obj\Debug\net5.0\Curso_generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoC#\Generic_Parte_2\obj\Debug\net5.0\Curso_generics.AssemblyInfoInputs.cache
+C:\CursoC#\Generic_Parte_2\obj\Debug\net5.0\Curso_generics.AssemblyInfo.cs
+C:\CursoC#\Generic_Parte_2\obj\Debug\net5.0\Curso_generics.csproj.CoreCompileInputs.cache
+C:\CursoC#\Generic_Parte_2\obj\Debug\net5.0\Curso_generics.dll
+C:\CursoC#\Generic_Parte_2\obj\Debug\net5.0\ref\Curso_generics.dll
+C:\CursoC#\Generic_Parte_2\obj\Debug\net5.0\Curso_generics.pdb
+C:\CursoC#\Generic_Parte_2\obj\Debug\net5.0\Curso_generics.genruntimeconfig.cache
